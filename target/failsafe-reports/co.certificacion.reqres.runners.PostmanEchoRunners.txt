@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: co.certificacion.reqres.runners.PostmanEchoRunners
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.38 s - in co.certificacion.reqres.runners.PostmanEchoRunners

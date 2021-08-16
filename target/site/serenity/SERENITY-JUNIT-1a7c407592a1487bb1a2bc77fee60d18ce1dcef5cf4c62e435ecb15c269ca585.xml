@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="API postman-echo" skipped="0" tests="2" time="8.09" timestamp="2021-08-16 10:35:26"><testcase name="The Quality Analyst verifies the response of the service with the GET method"/><testcase name="The Quality Analyst verifies the response of the service with POST method"/></testsuite>

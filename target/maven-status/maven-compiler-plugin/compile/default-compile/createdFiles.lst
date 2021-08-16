@@ -1,0 +1,6 @@
+co/certificacion/reqres/tasks/post/EnterData.class
+co/certificacion/reqres/endpoints/EndPoint.class
+co/certificacion/reqres/tasks/Consult/ConsumeService.class
+co/certificacion/reqres/endpoints/ConsumeApi.class
+co/certificacion/reqres/models/AutenticacionModels.class
+co/certificacion/reqres/utils/CreateBody.class
