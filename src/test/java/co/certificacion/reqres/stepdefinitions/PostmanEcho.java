@@ -45,7 +45,7 @@ public class PostmanEcho {
     @Then("should return the status code '(.*)'")
     public void shouldReturnTheStatusCode(int statusCode) {
         analyst.should(
-                seeThatResponse("El usuario se registró correctamente",
+                seeThatResponse("The user observes the following statusCode",
                         response -> response.statusCode(statusCode))
         );
     }
