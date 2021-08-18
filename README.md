@@ -1,5 +1,5 @@
-# Automation Fronted
-Automation Fronted
+# Automation Backend
+Automation Backend
 
 Starting 🦼 ✒️
 
